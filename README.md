@@ -48,7 +48,7 @@ python main.py
 ## Gameplay
 
 ![alt text](image.png)
-images/Screenshot 2025-04-03 220255.png
+![alt text](image-2.png)
 ![alt text](image-1.png)
 ## Assets
 
